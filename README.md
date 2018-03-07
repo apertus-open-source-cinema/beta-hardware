@@ -1,4 +1,4 @@
-# Axiom Beta Hardware
+# AXIOM Beta Hardware
 ![axiom beta enclosure concept art](https://www.apertus.org/sites/default/files/images/axiom-beta-concept-enlosure-02.png)
 This repository contains all the information and files related to the hardware of the Axiom Beta.
 The [Axiom Beta](https://www.apertus.org/axiom-beta) is an open source professional digital 
