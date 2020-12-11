@@ -1,7 +1,7 @@
 View this project on [CADLAB.io](https://cadlab.io/project/23633). 
 
 # AXIOM Beta Hardware
-![axiom beta enclosure concept art](https://www.apertus.org/sites/default/files/11.2017.Labeling_complete.jpg)
+[Axiom beta enclosure concept art](https://www.apertus.org/)
 
 This repository contains all the information and files related to the hardware of the AXIOM Beta.
 
